@@ -1,0 +1,7 @@
+{ "name" : "async_simple"
+, "description" : "An eio_custom example program"
+, "version" : "1.0.0"
+, "author" : "Denis Rylikov <denis.rylikov@protonmail.com> ()"
+, "main" : "build/default/nas.node"
+, "scripts" : { "test" : "node test.js" }
+}
